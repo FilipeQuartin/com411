@@ -7,6 +7,5 @@ def cwd():
         print(file)
 def main():
     print("Processing...")
-
+    cwd()
 main()
-cwd()
