@@ -5,8 +5,8 @@ def run():
     a = 0
     lsit = movements()
     print("Moving...")
-    while (a <= 4) :
-        print(f"Move {list[a]} for {list[a + 1]} steps")
+    while (a <= 6) :
+        print(f"Move {lsit[a]} for {lsit[a + 1]} steps")
         a = a + 2
 
 if __name__ == "__main__":
