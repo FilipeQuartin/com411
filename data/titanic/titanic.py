@@ -60,7 +60,7 @@ def display_survivors_per_age_group():
     for a in records:
         if(a[5] != ""):
             if(a[1] ==  '1' and a[5] < '18'):
-                c_srv += 1
+                c_srv += 1git pu
             elif (a[1] == '1' and a[5] < '65'):
                 a_srv += 1
             elif(a[1] == 1):
