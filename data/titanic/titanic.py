@@ -84,5 +84,3 @@ def run():
        display_passengers_per_age_group()
    elif (selected_option == 5):
        display_survivors_per_age_group()
-
-run()
